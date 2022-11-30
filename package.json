@@ -1,0 +1,10 @@
+{
+  "name": "adamshaeffer.com-server",
+  "version": "1.0.0",
+  "description": "First api stuff",
+  "main": "index.js",
+  "repository": "https://github.com/adamshaeffer/adamshaeffer.com-server.git",
+  "author": "Adam Shaeffer",
+  "license": "MIT",
+  "private": true
+}
